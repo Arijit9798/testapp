@@ -1,0 +1,12 @@
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csprojAssemblyReference.cache
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.CoreCompileInputs.cache
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.CopyComplete

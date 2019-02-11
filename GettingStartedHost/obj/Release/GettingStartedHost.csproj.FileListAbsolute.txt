@@ -1,0 +1,11 @@
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.exe.config
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.exe
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\bin\Release\GettingStartedHost.pdb
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.dll
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.pdb
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\bin\Release\GettingStartedLib.dll.config
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.csprojAssemblyReference.cache
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.csproj.CoreCompileInputs.cache
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.csproj.CopyComplete
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.exe
+C:\Users\inarsah1\source\repos\GettingStarted\GettingStartedHost\obj\Release\GettingStartedHost.pdb
